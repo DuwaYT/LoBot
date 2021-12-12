@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "got": "^11.8.2",
+    "ms": "^2.1.3",
+    "reconlx": "^2.4.3"
+  }
+}
